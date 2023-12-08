@@ -14,7 +14,7 @@ Required Python libraries: pandas, matplotlib, seaborn
 
 # Usage
 1. Clone the repository:
-git clone https://github.com/your-username/starbucks-beverage-analysis.git
+git clone https://github.com/DiptiSanap/starbucks_visualisation.git
 
 cd starbucks-beverage-analysis
 
