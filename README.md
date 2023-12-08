@@ -2,10 +2,10 @@
 This repository contains a Jupyter notebook for analyzing and visualizing Starbucks beverage data. The dataset includes information about various beverages, their nutritional content, and different beverage preparations.
 
 # Dataset
-The dataset used in this analysis is available on Kaggle: Starbucks Nutrition Facts
+The dataset used in this analysis is available on Kaggle: https://www.kaggle.com/datasets/henryshan/starbucks
 
 # Files
-starbucks_analysis.ipynb: Jupyter notebook containing the Python code for data cleaning, exploration, and visualization.
+starbucks_visualisation.ipynb: Jupyter notebook containing the Python code for data cleaning, exploration, and visualization.
 
 # Prerequisites
 Python 3
