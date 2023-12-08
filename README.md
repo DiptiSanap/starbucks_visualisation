@@ -15,9 +15,10 @@ Required Python libraries: pandas, matplotlib, seaborn
 # Usage
 1. Clone the repository:
 git clone https://github.com/your-username/starbucks-beverage-analysis.git
+
 cd starbucks-beverage-analysis
 
-2. Open and run the Jupyter notebook:
+3. Open and run the Jupyter notebook:
 jupyter notebook starbucks_visualisation.ipynb
 
 
